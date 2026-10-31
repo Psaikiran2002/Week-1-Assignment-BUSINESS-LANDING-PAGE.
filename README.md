@@ -19,7 +19,8 @@ Design and build a modern, responsive business landing page using current layout
 
 ### Live Link
 https://claude.ai/artifact/4afC2FDV3Y2bzACxxuryZg
-### 
+### Github Link 
+https://psaikiran2002.github.io/Week-1-Assignment-BUSINESS-LANDING-PAGE./
 
 
 ### Screenshots
