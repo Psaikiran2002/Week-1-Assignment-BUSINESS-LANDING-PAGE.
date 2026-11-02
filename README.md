@@ -27,4 +27,12 @@ https://psaikiran2002.github.io/Week-1-Assignment-BUSINESS-LANDING-PAGE./
 ![Landing page desktop view](screenshots/landing-desktop.png)
 ![Landing page mobile view](screenshots/landing-mobile.png)
 
+### About Author
+Author: P saikiran
+
+GitHub: @Psaikiran2002
+
+LinkedIn: https://www.linkedin.com/in/pilli-saikiran-500a61235
+
+Email: saikiran.reddi2002@gmail.com
 ---
